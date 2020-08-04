@@ -76,6 +76,7 @@ FM因子分解机模型的相关paper，在计算广告领域非常实用的模�
 * [PID控制经典培训教程](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E7%BB%8F%E5%85%B8%E5%9F%B9%E8%AE%AD%E6%95%99%E7%A8%8B.pdf) <br />
 * [PID控制原理与控制算法](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/PID%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95.doc) <br />
 * [Smart Pacing for Effective Online Ad Campaign Optimization](https://github.com/wzhe06/Ad-papers/blob/master/Budget%20Control/Smart%20Pacing%20for%20Effective%20Online%20Ad%20Campaign%20Optimization.pdf) <br />
+* [Multiplicative Pacing Equilibria in Auction Markets](https://arxiv.org/abs/1706.07151)
 
 ### Tree Model
 树模型和基于树模型的boosting模型，树模型的效果在大部分问题上非常好，在CTR，CVR预估及特征工程方面的应用非常广
